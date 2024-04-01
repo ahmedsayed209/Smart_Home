@@ -41,6 +41,7 @@ LCD 2*16
 MCAL : GPIO, TIMERS (PWM MODE), UART, I2C, and ADC
 
 HAL: LM35,LCD,KEYPAD,HC05,DC_MOTOR,SERVO_MOTOR,EXTERNAL EERPROM
+
 https://drive.google.com/file/d/1LRW1ynYN3gZDynW-PHOHymOgS1PSK84f/vie…
 …w?usp=drive_link 
-Video Link
+
